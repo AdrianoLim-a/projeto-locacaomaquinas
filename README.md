@@ -1,0 +1,1 @@
+An object-oriented programming project for a machine rental system, the project has a basis for suggesting classes that can integrate a machine rental system, having integration with a SQL database implemented by MySQL
