@@ -53,11 +53,11 @@ A seguir, vemos um exemplo da execução do sistema, onde são feitas algumas in
 
 ![Cadastro de Máquinas](https://via.placeholder.com/600x300?text=Cadastro+de+M%C3%A1quinas)
 
-### Registro de Locações
+## Registro de Locações
 
 ![Registro de Locações](https://via.placeholder.com/600x300?text=Registro+de+Loca%C3%A7%C3%B5es)
 
-### Exibição de Máquinas Disponíveis
+## Exibição de Máquinas Disponíveis
 
 ![Máquinas Disponíveis](https://via.placeholder.com/600x300?text=M%C3%A1quinas+Dispon%C3%ADveis)
 
@@ -65,6 +65,3 @@ A seguir, vemos um exemplo da execução do sistema, onde são feitas algumas in
 
 Se você tiver sugestões ou correções para o projeto, fique à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
