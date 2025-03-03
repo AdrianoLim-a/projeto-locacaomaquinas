@@ -61,6 +61,10 @@ A seguir, vemos um exemplo da execução do sistema, onde são feitas algumas in
 
 ![Máquinas Disponíveis](https://via.placeholder.com/600x300?text=M%C3%A1quinas+Dispon%C3%ADveis)
 
+## Diagrama de Classes: 
+![image](https://github.com/user-attachments/assets/21eafb98-6189-4946-9a67-590fb2e7158c)
+
+
 ## Contribuições
 
 Se você tiver sugestões ou correções para o projeto, fique à vontade para abrir uma issue ou enviar um pull request.
