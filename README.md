@@ -62,7 +62,7 @@ A seguir, vemos um exemplo da execução do sistema, onde são feitas algumas in
 
 ![Máquinas Disponíveis](maquinas_disponiveis.png)
 
-### Diagrama de Classes 
+# Diagrama de Classes 
 ![image](https://github.com/user-attachments/assets/21eafb98-6189-4946-9a67-590fb2e7158c)
 
 
