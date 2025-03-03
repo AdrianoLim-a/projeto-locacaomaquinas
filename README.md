@@ -45,22 +45,6 @@ O projeto é estruturado da seguinte forma:
 - 📦 `Locacao.java`: Classe que gerencia as locações, incluindo dados do cliente e da máquina.
 - 🔧 `ControleLocacao.java`: Classe que gerencia a lógica das operações de locação.
 
-## Exemplo de Funcionamento
-
-A seguir, vemos um exemplo da execução do sistema, onde são feitas algumas interações para cadastrar máquinas, clientes e registrar locações.
-
-
-## 📋 Cadastro de Máquinas  
-
-![Cadastro de Máquinas](cadastro_maquinas.png)
-
-## 🔄 Registro de Locações  
-
-![Registro de Locações](registro_locacoes.png)
-
-## 🖥️ Exibição de Máquinas Disponíveis  
-
-![Máquinas Disponíveis](maquinas_disponiveis.png)
 
 # Diagrama de Classes 
 ![image](https://github.com/user-attachments/assets/21eafb98-6189-4946-9a67-590fb2e7158c)
