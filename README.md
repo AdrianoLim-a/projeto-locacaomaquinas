@@ -49,19 +49,20 @@ O projeto é estruturado da seguinte forma:
 
 A seguir, vemos um exemplo da execução do sistema, onde são feitas algumas interações para cadastrar máquinas, clientes e registrar locações.
 
-### Cadastro de Máquinas
 
-![Cadastro de Máquinas](https://via.placeholder.com/600x300?text=Cadastro+de+M%C3%A1quinas)
+## 📋 Cadastro de Máquinas  
 
-## Registro de Locações
+![Cadastro de Máquinas](cadastro_maquinas.png)
 
-![Registro de Locações](https://via.placeholder.com/600x300?text=Registro+de+Loca%C3%A7%C3%B5es)
+## 🔄 Registro de Locações  
 
-## Exibição de Máquinas Disponíveis
+![Registro de Locações](registro_locacoes.png)
 
-![Máquinas Disponíveis](https://via.placeholder.com/600x300?text=M%C3%A1quinas+Dispon%C3%ADveis)
+## 🖥️ Exibição de Máquinas Disponíveis  
 
-## Diagrama de Classes: 
+![Máquinas Disponíveis](maquinas_disponiveis.png)
+
+## Diagrama de Classes 
 ![image](https://github.com/user-attachments/assets/21eafb98-6189-4946-9a67-590fb2e7158c)
 
 
