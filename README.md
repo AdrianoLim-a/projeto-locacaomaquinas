@@ -11,7 +11,7 @@ Este projeto tem como objetivo demonstrar conhecimentos aplicados na Orientaçã
 
 ## Tecnologias Utilizadas
 
-- 🖥️ Java (sem frameworks adicionais)
+- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  (sem frameworks adicionais)
 
 ## Como Rodar o Projeto
 
